@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-al6tcq.date-me.pro/sitemap.xml
